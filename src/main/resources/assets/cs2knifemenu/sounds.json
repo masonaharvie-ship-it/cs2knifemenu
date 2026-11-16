@@ -1,0 +1,802 @@
+{
+ "knife.bq_bfly_bknife_look01_a": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look01_a",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look01_ab__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look01_ab__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look01_ab__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look01_ab__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look01_b__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look01_b__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look01_b__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look01_b__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look01_b__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look01_b__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look02_a": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look02_a",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look02_ab__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look02_ab__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look02_ab__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look02_ab__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look02_ab__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look02_ab__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look02_ab__c3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look02_ab__c3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look02_b__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look02_b__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look02_b__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look02_b__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look02_b__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look02_b__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look03_ab__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look03_ab__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look03_ab__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look03_ab__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look03_ab__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look03_ab__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look03_ab__c3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look03_ab__c3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_bfly_bknife_look03_ab__c4": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_bfly_bknife_look03_ab__c4",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_knife_deploy1_q__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_knife_deploy1_q__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_knife_deploy1_q__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_knife_deploy1_q__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_knife_deploy1_q__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_knife_deploy1_q__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_knife_slash1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_knife_slash1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.bq_knife_slash2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/bq_knife_slash2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_draw": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_draw",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_inspect_end__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_inspect_end__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_inspect_end__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_inspect_end__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_inspect_end__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_inspect_end__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_inspect_end__c3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_inspect_end__c3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_inspect_end__c4": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_inspect_end__c4",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_inspect_start__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_inspect_start__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_inspect_start__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_inspect_start__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_inspect_start__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_inspect_start__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_bowie_inspect_start__c3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_bowie_inspect_start__c3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_deploy1_q__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_deploy1_q__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_deploy1_q__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_deploy1_q__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_deploy1_q__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_deploy1_q__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_flick_draw_01": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_flick_draw_01",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_flick_open_01": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_flick_open_01",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_flick_open_end_05": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_flick_open_end_05",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_navaja_draw": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_navaja_draw",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_navaja_draw_end": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_navaja_draw_end",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_navaja_flip_1__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_navaja_flip_1__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_navaja_flip_1__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_navaja_flip_1__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_navaja_flip_1__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_navaja_flip_1__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_navaja_flip_3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_navaja_flip_3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_navaja_handling__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_navaja_handling__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_navaja_handling__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_navaja_handling__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_attack1_heavy_01__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_attack1_heavy_01__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_attack1_heavy_01__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_attack1_heavy_01__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_attack1_heavy_01__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_attack1_heavy_01__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_draw__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_draw__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_draw__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_draw__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_draw__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_draw__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_draw__c3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_draw__c3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_lookat_end__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_lookat_end__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_lookat_end__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_lookat_end__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_lookat_end__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_lookat_end__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_lookat_end__c3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_lookat_end__c3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_lookat_start__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_lookat_start__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_lookat_start__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_lookat_start__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_push_lookat_start__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_push_lookat_start__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_slash1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_slash1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_slash2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_slash2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_stiletto_draw": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_stiletto_draw",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_stiletto_draw_end": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_stiletto_draw_end",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_stiletto_handling_01": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_stiletto_handling_01",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_stiletto_handling_02": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_stiletto_handling_02",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_stiletto_handling_03": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_stiletto_handling_03",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_stiletto_handling_04": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_stiletto_handling_04",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_stiletto_handling_05": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_stiletto_handling_05",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_catch": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_catch",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_1__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_1__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_1__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_1__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_1__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_1__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_1__c3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_1__c3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_2__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_2__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_2__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_2__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_3__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_3__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_3__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_3__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_4__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_4__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_4__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_4__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_4__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_4__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_5__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_5__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_5__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_5__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_ursus_flip_5__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_ursus_flip_5__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_deploy_01__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_deploy_01__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_deploy_01__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_deploy_01__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_deploy_01__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_deploy_01__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_deploy_01__c3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_deploy_01__c3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_end__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_end__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_end__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_end__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_end__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_end__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_loop_02__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_loop_02__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_loop_02__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_loop_02__c1",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_loop_02__c2": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_loop_02__c2",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_loop_02__c3": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_loop_02__c3",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_loop_02__c4": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_loop_02__c4",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_start__c0": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_start__c0",
+    "stream": false
+   }
+  ]
+ },
+ "knife.knife_widow_lookat2_start__c1": {
+  "sounds": [
+   {
+    "name": "cs2knifemenu:knife/knife_widow_lookat2_start__c1",
+    "stream": false
+   }
+  ]
+ }
+}

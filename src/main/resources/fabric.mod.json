@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "cs2knifemenu",
+  "version": "${version}",
+  "name": "CS2 Knife Menu",
+  "description": "Client-side CS2 knife viewmodels with the original animations, plus a compact in-game menu to pick your knife. Works on servers (no server install needed).",
+  "authors": ["Knife models, textures, animations and sounds by grinchhs (used with permission)"],
+  "license": "All Rights Reserved (assets: grinchhs). Code: see README",
+  "environment": "client",
+  "entrypoints": { "client": ["com.cs2knifemenu.CS2KnifeMenuClient"] },
+  "mixins": ["cs2knifemenu.client.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}

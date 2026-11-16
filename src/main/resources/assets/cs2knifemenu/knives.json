@@ -1,0 +1,312 @@
+{
+ "knives": [
+  {
+   "id": "default_t",
+   "name": "T",
+   "model": "default_t",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 1
+  },
+  {
+   "id": "default_ct",
+   "name": "CT",
+   "model": "default_ct",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 2
+  },
+  {
+   "id": "bayonet",
+   "name": "Bayonet",
+   "model": "bayonet",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 10
+  },
+  {
+   "id": "m9",
+   "name": "M9 Bayonet",
+   "model": "m9",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 20
+  },
+  {
+   "id": "karambit",
+   "name": "Karambit",
+   "model": "karambit",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 30
+  },
+  {
+   "id": "butterfly",
+   "name": "Butterfly",
+   "model": "butterfly",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 40
+  },
+  {
+   "id": "flip",
+   "name": "Flip",
+   "model": "flip",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 50
+  },
+  {
+   "id": "gut",
+   "name": "Gut",
+   "model": "gut",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 60
+  },
+  {
+   "id": "tactical",
+   "name": "Huntsman",
+   "model": "tactical",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 70
+  },
+  {
+   "id": "falchion",
+   "name": "Falchion",
+   "model": "falchion",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 80
+  },
+  {
+   "id": "push",
+   "name": "Shadow Daggers",
+   "model": "push",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 90
+  },
+  {
+   "id": "bowie",
+   "name": "Bowie",
+   "model": "bowie",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 100
+  },
+  {
+   "id": "ursus",
+   "name": "Ursus",
+   "model": "ursus",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 110
+  },
+  {
+   "id": "navaja",
+   "name": "Navaja",
+   "model": "navaja",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 120
+  },
+  {
+   "id": "stiletto",
+   "name": "Stiletto",
+   "model": "stiletto",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 130
+  },
+  {
+   "id": "talon",
+   "name": "Talon",
+   "model": "talon",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 140
+  },
+  {
+   "id": "css",
+   "name": "Classic",
+   "model": "css",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 150
+  },
+  {
+   "id": "cord",
+   "name": "Paracord",
+   "model": "cord",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 160
+  },
+  {
+   "id": "canis",
+   "name": "Survival",
+   "model": "canis",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 170
+  },
+  {
+   "id": "outdoor",
+   "name": "Nomad",
+   "model": "outdoor",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 180
+  },
+  {
+   "id": "skeleton",
+   "name": "Skeleton",
+   "model": "skeleton",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 190
+  },
+  {
+   "id": "kukri",
+   "name": "Kukri",
+   "model": "kukri",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": null,
+   "skin": false,
+   "sort": 200
+  },
+  {
+   "id": "m9_doppler_phase2",
+   "name": "M9 Bayonet | Doppler Phase 2",
+   "model": "m9",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": "d",
+   "skin": true,
+   "sort": 21
+  },
+  {
+   "id": "karambit_case_hardened",
+   "name": "Karambit | Case Hardened",
+   "model": "karambit",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": "9",
+   "skin": true,
+   "sort": 31
+  },
+  {
+   "id": "butterfly_doppler_p4",
+   "name": "Butterfly | Doppler Phase 4",
+   "model": "butterfly",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": "9",
+   "skin": true,
+   "sort": 41
+  },
+  {
+   "id": "butterfly_doppler_ruby",
+   "name": "Butterfly | Doppler Ruby",
+   "model": "butterfly",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": "c",
+   "skin": true,
+   "sort": 42
+  },
+  {
+   "id": "bowie_freehand",
+   "name": "Bowie | Freehand",
+   "model": "bowie",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": "5",
+   "skin": true,
+   "sort": 101
+  },
+  {
+   "id": "skeleton_slaughter",
+   "name": "Skeleton | Slaughter",
+   "model": "skeleton",
+   "icon": true,
+   "iw": 64,
+   "ih": 64,
+   "color": "d",
+   "skin": true,
+   "sort": 191
+  }
+ ]
+}
