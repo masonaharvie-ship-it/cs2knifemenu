@@ -2,7 +2,7 @@ package com.cs2knifemenu;
 
 import com.cs2knifemenu.core.KnifeData;
 import com.google.gson.*;
-import net.minecraft.resources.ResourceLocation;
+import net.minecraft.resources.Identifier;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -15,7 +15,7 @@ public final class KnifeRegistry {
         public boolean skin, hasIcon;
         public int iconW, iconH;
         public char color; // minecraft colour code of skins, or 0
-        public ResourceLocation texture, icon;
+        public Identifier texture, icon;
     }
 
     private static final List<Info> ALL = new ArrayList<>();

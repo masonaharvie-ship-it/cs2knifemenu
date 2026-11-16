@@ -4,7 +4,7 @@ import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
 import com.mojang.math.Axis;
 import com.cs2knifemenu.core.KnifeData;
-import net.minecraft.client.renderer.RenderType;
+import net.minecraft.client.renderer.rendertype.RenderTypes;
 import net.minecraft.client.renderer.SubmitNodeCollector;
 import net.minecraft.client.renderer.texture.OverlayTexture;
 
@@ -32,7 +32,7 @@ public final class KnifeViewRenderer {
         float s = c.scale / 16f;
         ps.scale(c.mirror ? -s : s, s, s);
         ps.translate(-l.ax, -l.ay, -l.az);
-        collector.submitCustomGeometry(ps, RenderType.entityCutoutNoCull(l.info.texture),
+        collector.submitCustomGeometry(ps, RenderTypes.entityCutoutNoCull(l.info.texture),
                 (pose, vc) -> emit(data, bones, pose, vc, light));
         ps.popPose();
         return true;
